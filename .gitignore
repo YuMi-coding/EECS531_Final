@@ -1,2 +1,3 @@
 # exclude checkpoints in jupyter
 .ipynb_checkpoints/*
+data/kth_database/*
